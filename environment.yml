@@ -1,0 +1,11 @@
+name: finmod
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - pandas
+  - seaborn
+  - statsmodels
+  - numpy
+  - tqdm
+prefix: /opt/anaconda3/envs/finmod
